@@ -14,7 +14,6 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://cipherx-credit-risk-model.streamlit.app/">Live Demo App</a> |
   🧠 <a href="https://github.com/cipherX2433/Credit-risk-model">Source Code</a>
 </p>
 

@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  🧠 <a href="https://github.com/cipherX2433/Credit-risk-model">Source Code</a>
+  🧠 <a href="https://github.com/HitanshSondhi/Credit_Risk_Modelling">Source Code</a>
 </p>
 
 ## 🧠 Overview

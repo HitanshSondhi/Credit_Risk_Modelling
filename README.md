@@ -109,7 +109,7 @@ Visualization	Matplotlib, Seaborn
 Explainability	SHAP, LIME
 ```
 # Clone repository
-git clone https://github.com/cipherX2433/Credit-risk-model.git
+https://github.com/HitanshSondhi/Credit_Risk_Modelling.git
 cd Credit-risk-model
 
 # Install dependencies
